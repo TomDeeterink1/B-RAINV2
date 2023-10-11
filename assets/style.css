@@ -1,0 +1,52 @@
+:root {
+    --white: #fff;
+    --black: #000;
+    --blue: #7faec5;
+    --green: #4ecd5d;
+    --red: #fa611f;
+    --darkgrey: #181818;
+  }
+  
+  * {
+    box-sizing: border-box;
+    margin: 0;
+  }
+  
+  body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1em;
+    line-height: 1.5em;
+  }
+  
+  h1 {
+    font-size: 3em;
+    font-weight: 800;
+    margin: 0;
+  }
+  
+  h2 {
+    font-size: 2.3em;
+    font-weight: 600;
+    padding-bottom: 0.5em;
+    margin: 0;
+  }
+  
+  h3 {
+    font-size: 1.8em;
+    font-weight: 600;
+    padding-bottom: 0.5em;
+    margin: 0;
+  }
+  
+  h4 {
+    font-size: 1.4em;
+    font-weight: 500;
+    margin: 0;
+  }
+  
+  p {
+    font-size: 1em;
+    font-weight: 400;
+    margin: 0;
+    padding-bottom: 0.5em;
+  }
