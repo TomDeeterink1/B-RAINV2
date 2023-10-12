@@ -1,3 +1,4 @@
+
 document.addEventListener('DOMContentLoaded', function () {
   const button = document.querySelector('.hamburger');
   const hiddencontent = document.querySelector('.hidden');
@@ -5,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
   button.addEventListener('click', dropdown);
 
   function dropdown() {
-    hiddencontent.classList.toggle('.visible');
+    hiddencontent.classList.toggle('visible');
   }
 });
 
@@ -21,7 +22,9 @@ document.addEventListener('DOMContentLoaded', function () {
           }
       });
   });
+  
 }
+
 
 
  
