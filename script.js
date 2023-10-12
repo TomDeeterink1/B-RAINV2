@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
   button.addEventListener('click', dropdown);
 
   function dropdown() {
-    hiddencontent.classList.toggle('visible');
+      hiddencontent.classList.toggle('visible');
   }
 });
 
@@ -24,8 +24,3 @@ document.addEventListener('DOMContentLoaded', function () {
   });
   
 }
-
-
-
- 
-
